@@ -1,5 +1,4 @@
 *.pyc
 __pycache__
-loft
 db.sqlite3
 .DS_Store
